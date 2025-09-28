@@ -1,40 +1,52 @@
 # 🗝️ NovaKeys
 
-NovaKeys is a **key reseller website** for the **Ronix executor**, built with modern web technologies and a focus on **speed, security, and branding**.  
-It allows users to purchase keys safely and instantly through **PayPal** and **Stripe**, with a clean and responsive design.
+NovaKeys is a **key reseller platform** for the **Ronix executor**, designed with performance, security, and branding in mind.  
+It allows users to quickly and safely purchase keys through **PayPal** and **Stripe**, with instant delivery and a sleek user experience.
 
----
-
-## ✨ Features
-
-- 💳 **Secure Payments** – Integrated with **PayPal** and **Stripe**  
-- 🎨 **Custom Branding** – Unique NovaKeys theme and identity  
-- 📱 **Responsive Design** – Works on desktop, tablet, and mobile  
-- ⚡ **Fast Checkout** – Optimized for quick and seamless transactions  
-- 🌐 **Deployed on Vercel** – Reliable hosting with global CDN  
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js (API handling, payment logic)  
-- **Payments:** PayPal, Stripe  
-- **Deployment:** Vercel  
+🌐 Live Website: [novakeys.online](https://novakeys.online)
 
 ---
 
 ## 📸 Preview
 
-https://novakeys.online/
+![NovaKeys Homepage](https://via.placeholder.com/1200x600.png?text=NovaKeys+Homepage+Preview)
+
+---
+
+## ✨ Features
+
+- 💳 **Multiple Payment Methods** – Secure transactions via **PayPal** & **Stripe**  
+- ⚡ **Instant Key Delivery** – Customers receive their license immediately after purchase  
+- 🎨 **Custom Branding** – Unique NovaKeys design and identity for trust & recognition  
+- 📱 **Fully Responsive** – Works across desktop, tablet, and mobile  
+- 🔒 **Secure Checkout** – API keys stored in environment variables  
+- 🌐 **Deployed on Vercel** – Global CDN and fast load speeds  
+- 🛠️ **Easy Integration** – Scalable backend for future features  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- Responsive UI / UX components
+
+**Backend**
+- Node.js
+- Express.js (for routing and API handling)
+
+**Payments**
+- Stripe API
+- PayPal REST API
+
+**Deployment**
+- Vercel (auto-deployment via GitHub integration)
 
 ---
 
 ## 🚀 Getting Started
 
-If you want to run this locally:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Rushelsh/NovaKeys.git
-   cd NovaKeys
+### 1. Clone the Repository
+```bash
+git clone https://github.com/YourUsername/NovaKeys.git
+cd NovaKeys
