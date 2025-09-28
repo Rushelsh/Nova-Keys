@@ -26,7 +26,7 @@ It allows users to purchase keys safely and instantly through **PayPal** and **S
 
 ## 📸 Preview
 
-![NovaKeys Homepage](https://novakeys.online/screenshot.png)  
+![NovaKeys Homepage](https://novakeys.online/)  
 *Clean and modern interface with a focus on user experience.*
 
 ---
